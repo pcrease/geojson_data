@@ -1,0 +1,225 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        30.60203,
+                        50.441005
+                    ],
+                    [
+                        30.519778,
+                        50.41489
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "time_min": 0.025,
+                "title": "route",
+                "marker-color": "#FF0000",
+                "distance_km": 6
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        30.51974,
+                        50.41496
+                    ],
+                    [
+                        30.680198,
+                        50.409027
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "time_min": 0.04,
+                "title": "route",
+                "marker-color": "#FF0000",
+                "distance_km": 11
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        30.601942,
+                        50.440877
+                    ],
+                    [
+                        30.514427,
+                        50.517682
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "time_min": 0.04,
+                "title": "route",
+                "marker-color": "#FF0000",
+                "distance_km": 10
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        30.60206,
+                        50.441041
+                    ],
+                    [
+                        30.519772,
+                        50.414912
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "time_min": 0.025,
+                "title": "route",
+                "marker-color": "#FF0000",
+                "distance_km": 6
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        30.284682,
+                        50.442751
+                    ],
+                    [
+                        30.602087,
+                        50.441087
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "time_min": 0.05,
+                "title": "route",
+                "marker-color": "#FF0000",
+                "distance_km": 22
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        30.680206,
+                        50.409109
+                    ],
+                    [
+                        30.601974,
+                        50.4409
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "time_min": 0.02,
+                "title": "route",
+                "marker-color": "#FF0000",
+                "distance_km": 6
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        30.519818,
+                        50.414799
+                    ],
+                    [
+                        30.60202,
+                        50.440992
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "time_min": 0.575,
+                "title": "route",
+                "marker-color": "#FF0000",
+                "distance_km": 6
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        30.284585,
+                        50.442772
+                    ],
+                    [
+                        30.602119,
+                        50.441134
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "time_min": 0.05,
+                "title": "route",
+                "marker-color": "#FF0000",
+                "distance_km": 22
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        30.514419,
+                        50.517615
+                    ],
+                    [
+                        30.284789,
+                        50.442714
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "time_min": 0.030000000000000002,
+                "title": "route",
+                "marker-color": "#FF0000",
+                "distance_km": 18
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        30.519799,
+                        50.41485
+                    ],
+                    [
+                        30.284462,
+                        50.442775
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "time_min": 0.04,
+                "title": "route",
+                "marker-color": "#FF0000",
+                "distance_km": 16
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
